@@ -3,3 +3,4 @@ Rosey
 Adding new line
 Created a new content.
 5678 is my content
+Enabled PollSCM
